@@ -1,4 +1,4 @@
-### Hi there 👋 I am [Wesley](wesleywj.github.io). 
+### Hi there 👋 I am [Wesley](https://wesleywj.github.io). 
 
 <!--
 **wesleywj/wesleywj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
